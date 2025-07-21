@@ -1,19 +1,15 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>General on My New Hugo Site</title>
-    <link>http://localhost:1313/categories/general/</link>
-    <description>Recent content in General on My New Hugo Site</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 21 Jul 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/general/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>My First Blog Post</title>
-      <link>http://localhost:1313/</link>
-      <pubDate>Mon, 21 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/</guid>
-      <description>&lt;h1 id=&#34;my-first-blog-post&#34;&gt;&#xA;  My First Blog Post&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#my-first-blog-post&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;Welcome to my first blog post using Hugo and the &lt;code&gt;hugo-book&lt;/code&gt; theme! This is a sample post to demonstrate how to structure content.&lt;/p&gt;&#xA;&lt;h2 id=&#34;introduction&#34;&gt;&#xA;  Introduction&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#introduction&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;This post covers the basics of creating a Markdown file for a Hugo site. The &lt;code&gt;hugo-book&lt;/code&gt; theme is designed for documentation and blogs, so you can use this file as a template for your content.&lt;/p&gt;&#xA;&lt;h2 id=&#34;content-section&#34;&gt;&#xA;  Content Section&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#content-section&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;Here’s some example content:&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>General on My idees and reflections</title><link>http://localhost:1313/categories/general/</link><description>Recent content in General on My idees and reflections</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Mon, 21 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/general/index.xml" rel="self" type="application/rss+xml"/><item><title>Contact</title><link>http://localhost:1313/docs/contact/</link><pubDate>Mon, 21 Jul 2025 00:00:00 +0000</pubDate><guid>http://localhost:1313/docs/contact/</guid><description>&lt;h1 id="">
+ &lt;a href="mailto:kamil.szewczyk.p@gmail.com">kamil.szewczyk.p@gmail.com&lt;/a>
+ &lt;a class="anchor" href="#">#&lt;/a>
+&lt;/h1></description></item><item><title>My First Blog Post</title><link>http://localhost:1313/</link><pubDate>Mon, 21 Jul 2025 00:00:00 +0000</pubDate><guid>http://localhost:1313/</guid><description>&lt;h1 id="my-first-blogç">
+ My First Blogç
+ &lt;a class="anchor" href="#my-first-blog%c3%a7">#&lt;/a>
+&lt;/h1>
+&lt;p>Just some not - formatted thoughts on various subjects.&lt;/p>
+&lt;h2 id="introduction">
+ Introduction
+ &lt;a class="anchor" href="#introduction">#&lt;/a>
+&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;input disabled="" type="checkbox"> Dire “c’est vrai “ ou “c’est pas faux “ - ça n’est pas une simple inverse. Il me semble que “ pas faux “ c’est comme une partie, une minute partie n’est pas faux mais ça ne rendre de toute chose vrai. Alors en disant c’est vrai on faire un quelque sorte de mental raccourci - le fragilism. La terre tourne autour du soleil- vrai. C’est bien du boire du café - ce pas faux mais pas 30 par jour&lt;/p></description></item></channel></rss>

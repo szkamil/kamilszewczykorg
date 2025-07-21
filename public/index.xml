@@ -1,12 +1,9 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>My First Blog Post on My New Hugo Site</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content in My First Blog Post on My New Hugo Site</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate></lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>My First Blog Post on My idees and reflections</title><link>http://localhost:1313/</link><description>Recent content in My First Blog Post on My idees and reflections</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml"/><item><title>Philosophie</title><link>http://localhost:1313/philosopie/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/philosopie/</guid><description>&lt;h1 id="philosophie-de-la-vie">
+ Philosophie de la vie
+ &lt;a class="anchor" href="#philosophie-de-la-vie">#&lt;/a>
+&lt;/h1>
+&lt;p>Voici une page d’exemple dans le thème &lt;strong>hugo-book&lt;/strong>.&lt;/p>
+&lt;ul>
+&lt;li>Elle utilise le menu latéral.&lt;/li>
+&lt;li>Elle est écrite en Markdown.&lt;/li>
+&lt;/ul></description></item></channel></rss>
