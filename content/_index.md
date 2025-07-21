@@ -10,7 +10,7 @@ weight: 10
 draft: false
 ---
 
-# Aspiring to be worthy of being philosopher
+# Aspiring to be worthy of being a philosopher
 
 ## I start with...
 Just some not - formatted thoughts on various subjects.
