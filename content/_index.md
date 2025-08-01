@@ -1,5 +1,5 @@
 ---
-title: "My First Blog Post"
+title: "Varous thoughts"
 description: "A sample blog post for my Hugo site using the hugo-book theme."
 date: 2025-07-21
 lastmod: 2025-07-21
@@ -10,18 +10,10 @@ weight: 10
 draft: false
 ---
 
-# Aspiring to be worthy of being a philosopher
 
-## I start with..
+## Varous topics
 Thoughts flow on various subjects.
 
-## Subjects(to be refutable in K. Popper sense)
-
-- [ ] If you talk with someone and if you agree you can say:
-  - it is not false
-  - it is true
-
-But it seems saying one or another does not amount to the same thing. If you say, agreeing to somoene saying for instance 'it is good to think before acting'. Now if you concede to this point, saying 'it is true', you agree with the point without distinguishing any nuance. For example, if you walk in nature and you see a charging bull, it might be a good idea to quickly jump on a nearby tree and think **after** the fact, not before. So saying it is good to think before acting is not always true, since the difference between life and death is seconds. On the other hand if you say 'it is not false', you can mean that you don't detect falsity in this statememnt, but it doesn't mean it deosn't exist. It is just you are conscisous enough to be aware that you might be wrong, which ultimately leads you to making a better decision, since we cannot be sure of many things in life. That was one of the central ideas of Karl Popper.
 
 - [ ] Dogs and animals domesticated is a wolf breeded too closely and it came out some sort of retard. That’s how it started since human got wolves mates in captivity ( for sacrifice maybe ? - Rene Girard). The same with cows. How about humans, are they also domesticated?
 - [ ] Anti fragilité  - ce qui n enrichie pas - fais un plus pauvre - au temps l’argent l’amitié  etc.. tous… grâce à covex - concave. Covex c’est l’opposite de concave Soit tu es malin ou dupe il n’y a pas un mielieu. Hence gros Tony categorized people only by dupes and non dupes. There’s nothing in the middle
