@@ -1,9 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>My First Blog Post on My idees and reflections</title><link>http://localhost:1313/</link><description>Recent content in My First Blog Post on My idees and reflections</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml"/><item><title>Philosophie</title><link>http://localhost:1313/philosopie/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/philosopie/</guid><description>&lt;h1 id="philosophie-de-la-vie">
- Philosophie de la vie
- &lt;a class="anchor" href="#philosophie-de-la-vie">#&lt;/a>
-&lt;/h1>
-&lt;p>Voici une page d’exemple dans le thème &lt;strong>hugo-book&lt;/strong>.&lt;/p>
-&lt;ul>
-&lt;li>Elle utilise le menu latéral.&lt;/li>
-&lt;li>Elle est écrite en Markdown.&lt;/li>
-&lt;/ul></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My First Blog Post on My idees and reflections</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in My First Blog Post on My idees and reflections</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 21 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Map is not reality</title>
+      <link>http://localhost:1313/docs/map_is_not_reality/my-first-post/</link>
+      <pubDate>Mon, 21 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/map_is_not_reality/my-first-post/</guid>
+      <description>&lt;h1 id=&#34;dont-use-a-map-to-navigate-world&#34;&gt;&#xA;  Dont use a map to navigate world&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#dont-use-a-map-to-navigate-world&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;Maps can be dangerous, by giving us false comfort and by fooling us that they are the reality where in fact they are always some reduction and deformation to some degree, since one big object cannot be compressed  10000 times and we expect then that’s identical than the big object.&#xA;Or put a toy car next to real car, or architectural maquette of a building next to real one. You cannot live in the maquette building, you can’t go shopping in toy car, you know the difference, but why everyone , including me, mixes up models ( opinion of a thing vs real qualities that can be objectively measured). Why do we believe in dogmas then ( all sorts of, like economy , psychology, théorie de xyZ….) can be due to the fact it’s complex vs simple ( toy car vs theory of time travel) one easy to imagine the other not - but in primitive environment we didn’t worry about time travel speed. We wanted to survive. Now take this caveman into the Time Machine and tell him to go to work in Wall Street - he would go crazy - but both the caveman and the bankers have the same genes, except that the caveman maybe a lot more smarter then some of them, but that’s for another topic on if humanity gets smarter or not. But caveman would mistrust the maps and models , he would use reality heuristics. We are baffled by the noise like that caveman and make all sorts of mistakes on this complex system.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

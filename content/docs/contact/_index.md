@@ -6,7 +6,7 @@ lastmod: 2025-07-21
 slug: "my-first-post"
 tags: ["hugo", "blog", "example"]
 categories: ["General"]
-weight: 10
+weight: 0
 draft: false
 ---
 

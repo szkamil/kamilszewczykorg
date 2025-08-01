@@ -1,15 +1,33 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hugo on My idees and reflections</title><link>http://localhost:1313/tags/hugo/</link><description>Recent content in Hugo on My idees and reflections</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Mon, 21 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/hugo/index.xml" rel="self" type="application/rss+xml"/><item><title>Contact</title><link>http://localhost:1313/docs/contact/</link><pubDate>Mon, 21 Jul 2025 00:00:00 +0000</pubDate><guid>http://localhost:1313/docs/contact/</guid><description>&lt;h1 id="">
- &lt;a href="mailto:kamil.szewczyk.p@gmail.com">kamil.szewczyk.p@gmail.com&lt;/a>
- &lt;a class="anchor" href="#">#&lt;/a>
-&lt;/h1></description></item><item><title>My First Blog Post</title><link>http://localhost:1313/</link><pubDate>Mon, 21 Jul 2025 00:00:00 +0000</pubDate><guid>http://localhost:1313/</guid><description>&lt;h1 id="my-first-blogç">
- My First Blogç
- &lt;a class="anchor" href="#my-first-blog%c3%a7">#&lt;/a>
-&lt;/h1>
-&lt;p>Just some not - formatted thoughts on various subjects.&lt;/p>
-&lt;h2 id="introduction">
- Introduction
- &lt;a class="anchor" href="#introduction">#&lt;/a>
-&lt;/h2>
-&lt;ul>
-&lt;li>
-&lt;p>&lt;input disabled="" type="checkbox"> Dire “c’est vrai “ ou “c’est pas faux “ - ça n’est pas une simple inverse. Il me semble que “ pas faux “ c’est comme une partie, une minute partie n’est pas faux mais ça ne rendre de toute chose vrai. Alors en disant c’est vrai on faire un quelque sorte de mental raccourci - le fragilism. La terre tourne autour du soleil- vrai. C’est bien du boire du café - ce pas faux mais pas 30 par jour&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo on My idees and reflections</title>
+    <link>http://localhost:1313/tags/hugo/</link>
+    <description>Recent content in Hugo on My idees and reflections</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 21 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contact</title>
+      <link>http://localhost:1313/docs/contact/</link>
+      <pubDate>Mon, 21 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/contact/</guid>
+      <description>&lt;h1 id=&#34;&#34;&gt;&#xA;  &lt;a href=&#34;mailto:kamil.szewczyk.p@gmail.com&#34;&gt;kamil.szewczyk.p@gmail.com&lt;/a&gt;&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;</description>
+    </item>
+    <item>
+      <title>My First Blog Post</title>
+      <link>http://localhost:1313/</link>
+      <pubDate>Mon, 21 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/</guid>
+      <description>&lt;h1 id=&#34;aspiring-to-be-worthy-of-being-a-philosopher&#34;&gt;&#xA;  Aspiring to be worthy of being a philosopher&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#aspiring-to-be-worthy-of-being-a-philosopher&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;h2 id=&#34;i-start-with&#34;&gt;&#xA;  I start with..&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#i-start-with&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;Thoughts flow on various subjects.&lt;/p&gt;&#xA;&lt;h2 id=&#34;subjectsto-be-refutable-in-k-popper-sense&#34;&gt;&#xA;  Subjects(to be refutable in K. Popper sense)&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#subjectsto-be-refutable-in-k-popper-sense&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; If you talk with someone and if you agree you can say:&#xA;&lt;ul&gt;&#xA;&lt;li&gt;it is not false&lt;/li&gt;&#xA;&lt;li&gt;it is true&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;But it seems saying one or another does not amount to the same thing. If you say, agreeing to somoene saying for instance &amp;lsquo;it is good to think before acting&amp;rsquo;. Now if you concede to this point, saying &amp;lsquo;it is true&amp;rsquo;, you agree with the point without distinguishing any nuance. For example, if you walk in nature and you see a charging bull, it might be a good idea to quickly jump on a nearby tree and think &lt;strong&gt;after&lt;/strong&gt; the fact, not before. So saying it is good to think before acting is not always true, since the difference between life and death is seconds. On the other hand if you say &amp;lsquo;it is not false&amp;rsquo;, you can mean that you don&amp;rsquo;t detect falsity in this statememnt, but it doesn&amp;rsquo;t mean it deosn&amp;rsquo;t exist. It is just you are conscisous enough to be aware that you might be wrong, which ultimately leads you to making a better decision, since we cannot be sure of many things in life. That was one of the central ideas of Karl Popper.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>My First Blog Post</title>
+      <link>http://localhost:1313/docs/essais/</link>
+      <pubDate>Mon, 21 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/essais/</guid>
+      <description>&lt;h1 id=&#34;aspiring-to-be-worthy-of-being-a-philosopher&#34;&gt;&#xA;  Aspiring to be worthy of being a philosopher&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#aspiring-to-be-worthy-of-being-a-philosopher&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;h2 id=&#34;i-start-with&#34;&gt;&#xA;  I start with&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#i-start-with&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;Thoughts flow on various subjects.&lt;/p&gt;&#xA;&lt;h2 id=&#34;subjectsto-be-refutable-in-k-popper-sense&#34;&gt;&#xA;  Subjects(to be refutable in K. Popper sense)&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#subjectsto-be-refutable-in-k-popper-sense&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; If you talk with someone and if you agree you can say:&#xA;&lt;ul&gt;&#xA;&lt;li&gt;it is not false&lt;/li&gt;&#xA;&lt;li&gt;it is true&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;But it seems saying one or another does not amount to the same thing. If you say, agreeing to somoene saying for instance &amp;lsquo;it is good to think before acting&amp;rsquo;. Now if you concede to this point, saying &amp;lsquo;it is true&amp;rsquo;, you agree with the point without distinguishing any nuance. For example, if you walk in nature and you see a charging bull, it might be a good idea to quickly jump on a nearby tree and think &lt;strong&gt;after&lt;/strong&gt; the fact, not before. So saying it is good to think before acting is not always true, since the difference between life and death is seconds. On the other hand if you say &amp;lsquo;it is not false&amp;rsquo;, you can mean that you don&amp;rsquo;t detect falsity in this statememnt, but it doesn&amp;rsquo;t mean it deosn&amp;rsquo;t exist. It is just you are conscisous enough to be aware that you might be wrong, which ultimately leads you to making a better decision, since we cannot be sure of many things in life. That was one of the central ideas of Karl Popper.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

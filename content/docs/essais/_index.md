@@ -12,7 +12,7 @@ draft: false
 
 # Aspiring to be worthy of being a philosopher
 
-## I start with..
+## I start with
 Thoughts flow on various subjects.
 
 ## Subjects(to be refutable in K. Popper sense)
