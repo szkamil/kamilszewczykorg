@@ -13,7 +13,7 @@ draft: false
 
 ## Varous topics
 Thoughts flow on various subjects.
-
+ 
 
 - [ ] Dogs and animals domesticated is a wolf breeded too closely and it came out some sort of retard. That’s how it started since human got wolves mates in captivity ( for sacrifice maybe ? - Rene Girard). The same with cows. How about humans, are they also domesticated?
 - [ ] Anti fragilité  - ce qui n enrichie pas - fais un plus pauvre - au temps l’argent l’amitié  etc.. tous… grâce à covex - concave. Covex c’est l’opposite de concave Soit tu es malin ou dupe il n’y a pas un mielieu. Hence gros Tony categorized people only by dupes and non dupes. There’s nothing in the middle
